@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://blog.rdstudios.org'
 languageCode = 'en-us'
 title = 'RdStudios'
 theme = 'tale'
