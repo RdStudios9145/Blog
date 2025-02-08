@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RdStudios</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on RdStudios</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 08 Feb 2025 11:15:01 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome!</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Fri, 07 Feb 2025 23:53:49 -0800</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Hi! Im Lucy the Foxxo, welcome to the blog!&lt;/p&gt;&#xA;&lt;p&gt;Im a high school student in the Silicon Vallaey in California. I would like to become more of a writer/blogger, so I&amp;rsquo;m planning to post once a week, probably on the weekends.&lt;/p&gt;&#xA;&lt;p&gt;This blog will probably contain a variety of things:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Info about my programming projects (mostly this)&lt;/li&gt;&#xA;&lt;li&gt;Some activism (especially after the election, also cars are bad)&lt;/li&gt;&#xA;&lt;li&gt;Anything else I feel compelled to write about&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;So, welcome, and please enjoy your stay!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>FoxLang</title>
+      <link>http://localhost:1313/2025-02-08/</link>
+      <pubDate>Sat, 08 Feb 2025 11:15:01 -0800</pubDate>
+      <guid>http://localhost:1313/2025-02-08/</guid>
+      <description>&lt;p&gt;Hello!&lt;/p&gt;&#xA;&lt;p&gt;I would like to formally introduce FoxLang to the world! It&amp;rsquo;s a programming language that I&amp;rsquo;ve been working on during my spare time. It is very early in the development, but this has been what is consuming almost all of the time I spend programming, so I decided that it was fine to write about.&lt;/p&gt;&#xA;&lt;p&gt;You can find the code &lt;!-- raw HTML omitted --&gt;here, on my github&lt;!-- raw HTML omitted --&gt;. I have mostly finished the AST (with the exception of unnecessary things like structs), and I am going to start writing the interpreter part. Im planning to eventually make it compiled, with LLVM as the backend, but that is probably pretty far in the future.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

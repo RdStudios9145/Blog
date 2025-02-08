@@ -1,0 +1,7 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'RdStudios'
+theme = 'tale'
+
+[author]
+	name = 'Lucy the Foxxo'
